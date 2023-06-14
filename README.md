@@ -1,26 +1,4 @@
-<!-- Banner -->
-![alt Banner of the Loqio Charging Station package](https://raw.githubusercontent.com/robbinjanssen/python-loqio-charging-station/main/assets/header_omnik_inverter-min.png)
-
-<!-- PROJECT SHIELDS -->
-[![GitHub Release][releases-shield]][releases]
-[![Python Versions][python-versions-shield]][pypi]
-![Project Stage][project-stage-shield]
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE)
-
-[![GitHub Activity][commits-shield]][commits-url]
-[![PyPi Downloads][downloads-shield]][downloads-url]
-[![GitHub Last Commit][last-commit-shield]][commits-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-[![Maintainability][maintainability-shield]][maintainability-url]
-[![Code Coverage][codecov-shield]][codecov-url]
-
-[![Code Quality][code-quality-shield]][code-quality]
-[![Build Status][build-shield]][build-url]
-
-Asynchronous Python client for the Loqio Charging Station API.
+_Asynchronous Python client for the Loqio Charging Station API._
 
 ## About
 
